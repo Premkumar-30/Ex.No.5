@@ -67,7 +67,7 @@ Both naïve and basic prompts were executed under identical conditions. Careful 
 
 # 7. Evaluation Parameters  
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/04f36a25-4ff9-424e-85a3-e108d07e8099" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/04f36a25-4ff9-424e-85a3-e108d07e8099" />
 
 
 ---
